@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithms-and-datastructures.iml" filepath="$PROJECT_DIR$/algorithms-and-datastructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codingame/codingame.iml" filepath="$PROJECT_DIR$/codingame/codingame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interviewbit/interviewbit.iml" filepath="$PROJECT_DIR$/interviewbit/interviewbit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitledgggg/untitledgggg.iml" filepath="$PROJECT_DIR$/untitledgggg/untitledgggg.iml" />
+    </modules>
+  </component>
+</project>
