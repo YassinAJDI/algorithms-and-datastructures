@@ -1,4 +1,4 @@
-import java.util.*
+package bubble_sort
 
 fun main() {
     val array = intArrayOf(2, 1, 4, 0)

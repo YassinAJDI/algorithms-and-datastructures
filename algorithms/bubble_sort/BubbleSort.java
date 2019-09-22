@@ -1,3 +1,5 @@
+package bubble_sort;
+
 import java.util.Arrays;
 
 // Implementation of Bubble Sort in Java
@@ -14,7 +16,6 @@ public class BubbleSort {
                     swapped = true;
                 }
             }
-            System.out.println(Arrays.toString(array));
             if (!swapped) {
                 break;
             }
