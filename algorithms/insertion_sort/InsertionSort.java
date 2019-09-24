@@ -1,7 +1,5 @@
 package insertion_sort;
 
-import java.util.Arrays;
-
 public class InsertionSort {
     public void sort(int[] array) {
         for (int i = 1; i < array.length; i++) {
